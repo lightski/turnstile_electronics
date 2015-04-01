@@ -1,0 +1,13 @@
+motion_sensor
+our sensors are this model: hc-sr501
+
+amazon purchase page:
+http://www.amazon.com/2013newestseller-HC-SR501-Pyroelectric-Infrared-Detector/dp/B00FDPO9B8/ref=sr_1_3?ie=UTF8&qid=1425903884&sr=8-3&keywords=pir+sensors
+
+blog about using these with arduino:
+http://arduinobasics.blogspot.com/search/label/HC-SR501
+
+pdf spec sheet (see files): 
+http://www.mpja.com/download/31227sc.pdf
+
+
