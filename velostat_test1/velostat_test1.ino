@@ -10,6 +10,8 @@ Then connect one end of a 10K resistor from Analog 0 to ground
 For more information see www.ladyada.net/learn/sensors/fsr.html */
  
 int fsrPin = 0;     // the FSR and 10K pulldown are connected to a0
+
+
 int fsrReading;     // the analog reading from the FSR resistor divider
 int LEDpin = 11; //connect LED to to pin 13 (PWM pin)
 int LEDbrightness;
